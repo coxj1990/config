@@ -11,6 +11,9 @@ Plugin 'vundlevim/vundle.vim'
 " hjkl navigation in vim buffers in tmux
 Plugin 'christoomey/vim-tmux-navigator'
 
+" Quick commenting
+Plugin 'scrooloose/nerdcommenter'
+
 " All of your Plugins must be added before the following line
 call vundle#end()
 filetype plugin indent on
